@@ -52,7 +52,8 @@
 
 5. **To Run this project**
     use `postman` recommended  
-    [click here for all postman routes](https://aryangawade65418-539824.postman.co/workspace/aryan-gawade's-Workspace~78a32904-5710-4978-8d2d-9cd940a00ae0/collection/47299461-5b560e24-82be-471a-b318-9afb7a1a3352?action=share&source=copy-link&creator=47299461)
+    [click here for all postman routes](https://aryangawade65418-539824.postman.co/workspace/aryan-gawade's-Workspace~78a32904-5710-4978-8d2d-9cd940a00ae0/collection/47299461-5b560e24-82be-471a-b318-9afb7a1a3352?action=share&source=copy-link&creator=47299461)  
+    or use *PostMan_collection.json* in public folder
 
 ## 🙋‍♂️ Author
 **Aryan Gawade**
